@@ -177,9 +177,9 @@ useHead({
 });
 
 useSeoMeta({
-  title: "Portafolio de José Montes programador Front End",
+  title: "Empresa COMPANY",
   description:
-    "Soy un desarrollador Junior con 1 año de experiencia que siempre busca una solución óptima que satisfaga las necesidades",
+    "Tu puerta al mundo Digital",
 });
 
 
