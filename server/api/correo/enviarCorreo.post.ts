@@ -9,7 +9,7 @@ export default defineEventHandler(async (event) => {
 
     const data = await resend.emails.send({
       from: 'Company <onboarding@resend.dev>',
-      to: ['joxmal123@gmail.com'],
+      to: ['edithson@kalstein.net'],
       subject: `${informacionCorreo.razon}`,
       html: `<strong>${informacionCorreo.mensaje}</strong>`,
     });
